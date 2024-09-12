@@ -18,4 +18,4 @@ This Python script provides a basic image encryption and decryption tool using p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/richardk100/PRODIGY_CS_02.git
